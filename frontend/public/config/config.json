@@ -9,9 +9,9 @@
     "RPC_URL": "https://eth-rinkeby.alchemyapi.io/v2/WG68WJV_dEDvQY7Lnyt5ZxwK6FBCEHLJ",
     "BLOCK_EXPLORER_URL": "https://rinkeby.etherscan.io/"
   },
-  "NFT_NAME": "NFTBoilMerkle",
-  "SYMBOL": "BOIL",
-  "MAX_SUPPLY": 7000,
+  "NFT_NAME": "NFTFukubukuro2023",
+  "SYMBOL": "NFB",
+  "MAX_SUPPLY": 2023,
   "GAS_LIMIT": 200000,
   "PAUSED": false,
   "MARKETPLACE": "OpenSea",
